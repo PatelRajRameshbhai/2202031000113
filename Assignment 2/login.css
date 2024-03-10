@@ -1,0 +1,918 @@
+.frame-item {
+  height: 140px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.no-strings-attached1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 800;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.account1,
+.cart1,
+.search1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.account-parent {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-wrapper,
+.rectangle-group {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper {
+  margin: 0;
+  width: 414px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 26px 0 0;
+}
+.rectangle-group {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px 100px 28px 63px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  text-align: left;
+  font-size: 64px;
+  color: #000;
+  font-family: Inter;
+}
+.about-us-frame-child {
+  height: 116px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.men1,
+.women1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 2;
+}
+.couple-clothing1 {
+  display: inline-block;
+  max-width: 100%;
+}
+.about-us2,
+.couple-clothing1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 2;
+}
+.about-us-frame,
+.frame-login {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.about-us-frame {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 29px 52px 29px 104px;
+  gap: 20px;
+  z-index: 1;
+}
+.frame-login {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 47px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+.login1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.email-text-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 54px;
+}
+.email {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  font-weight: 800;
+  font-family: Inter;
+  color: gray;
+  text-align: left;
+}
+.sign-in-text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 51px;
+}
+.sign-in-text1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50px;
+  background-color: rgba(108, 89, 89, 0.2);
+}
+.email-rectangle {
+  width: 810px;
+  height: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+  box-sizing: border-box;
+  gap: 5px 0;
+  max-width: 100%;
+}
+.password {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  font-weight: 800;
+  font-family: Inter;
+  color: gray;
+  text-align: left;
+}
+.password-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 51px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.email-rectangle-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50px;
+  background-color: #d9d9d9;
+}
+.email-rectangle1 {
+  width: 810px;
+  height: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px 0;
+  max-width: 100%;
+}
+.forgot-your-password {
+  margin: 0;
+  position: relative;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: Inter;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  max-width: 100%;
+}
+.sign-in-button-child {
+  height: 54px;
+  width: 175px;
+  position: relative;
+  background-color: gray;
+  display: none;
+}
+.sign-in {
+  position: relative;
+  font-size: 26px;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  z-index: 1;
+}
+.new-styles-frame,
+.sign-in-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sign-in-button {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 39px 12px 40px;
+  background-color: gray;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.sign-in-button:hover {
+  background-color: #666;
+}
+.new-styles-frame {
+  width: 699px;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.create-account-label-child {
+  height: 70px;
+  width: 336px;
+  position: relative;
+  background-color: #848392;
+  display: none;
+  max-width: 100%;
+}
+.facebook-login {
+  position: relative;
+  font-size: 32px;
+  font-family: Inter;
+  color: #000;
+  text-align: left;
+  z-index: 1;
+}
+.create-account-label {
+  cursor: pointer;
+  border: 0;
+  padding: 17px 30px 14px 29px;
+  background-color: #848392;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.create-account-label:hover {
+  background-color: #6b6b78;
+}
+.easy-return-tag-child {
+  height: 70px;
+  width: 324px;
+  position: relative;
+  background-color: #cbbcbc;
+  display: none;
+  max-width: 100%;
+}
+.google-login {
+  margin: 0;
+  position: relative;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: Inter;
+  color: #000;
+  text-align: left;
+  z-index: 1;
+}
+.easy-return-tag {
+  background-color: #cbbcbc;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 17px 32px 11px 51px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.free-shipping-info {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.free-shipping-info,
+.google-login-text,
+.google-login-text1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.google-login-text1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.google-login-text {
+  width: 791px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 116px 0;
+}
+.facebook-login-text,
+.frame-login-buttons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.frame-login-buttons {
+  margin: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 47px;
+  box-sizing: border-box;
+  gap: 19px 0;
+}
+.create-account {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 900;
+  font-family: inherit;
+}
+.innovative-designs-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 28px;
+  font-size: 36px;
+}
+.create-account-button {
+  width: 842px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 34px 0;
+  max-width: 100%;
+}
+.create-account-button-wrapper {
+  width: 1408px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 55px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 64px;
+  color: #000;
+  font-family: Inter;
+}
+.accessibility-tag-child {
+  height: 134px;
+  width: 1440px;
+  position: relative;
+  background-color: #1c1818;
+  display: none;
+  max-width: 100%;
+}
+.free-shipping1 {
+  display: inline-block;
+  max-width: 100%;
+}
+.easy-return1,
+.free-shipping1,
+.new-styles1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  z-index: 1;
+}
+.easy-return1 {
+  display: inline-block;
+  max-width: 100%;
+}
+.accessibility-tag,
+.direct-to-consumer-model-text {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.accessibility-tag {
+  flex: 1;
+  background-color: #1c1818;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 30px 74px 30px 26px;
+  min-height: 134px;
+  gap: 20px;
+}
+.direct-to-consumer-model-text {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+  text-align: left;
+  font-size: 48px;
+  color: #e28733;
+  font-family: Inter;
+}
+.blog-frame-child {
+  height: 596px;
+  width: 1440px;
+  position: relative;
+  background-color: #1c1818;
+  display: none;
+  max-width: 100%;
+}
+.our-mission1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.innovativedesign-1,
+.our-mission1 {
+  position: relative;
+  font-weight: 800;
+  z-index: 2;
+}
+.creating1,
+.designs-thatare-an1 {
+  margin: 0;
+}
+.creating-desi-container1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 2;
+}
+.creating-desi-frame,
+.follow-us-social-media-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.creating-desi-frame {
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  font-size: 16px;
+}
+.follow-us-social-media-text {
+  flex-direction: column;
+  padding: 0 0 10px;
+  gap: 6px 0;
+}
+.direct-ticonsumer-model1 {
+  position: relative;
+  font-weight: 800;
+  z-index: 2;
+}
+.direct-ticonsumer-model-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.bringingaccessibility-and-valu1,
+.everyday-fashion1 {
+  margin: 0;
+}
+.bringingaccessibility-and-valu-container1 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  z-index: 2;
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+}
+.homegrown-1 {
+  position: relative;
+  font-weight: 800;
+  z-index: 2;
+}
+.imagined-inindia1,
+.made-inindia1 {
+  margin: 0;
+}
+.imagined-inindia-made-container1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 2;
+}
+.homegrown-parent,
+.imagined-inindia-made-inindia-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.imagined-inindia-made-inindia-wrapper {
+  flex-direction: row;
+  padding: 0 1px;
+  font-size: 16px;
+}
+.homegrown-parent {
+  flex-direction: column;
+  gap: 6px 0;
+}
+.follow-uson-social1 {
+  position: relative;
+  font-weight: 800;
+  z-index: 2;
+}
+.follow-uson-social-media-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px;
+}
+.about-us-info-text,
+.imagined-in-india-tag {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.imagined-in-india-tag {
+  align-self: stretch;
+  gap: 21px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.about-us-info-text {
+  width: 314px;
+  gap: 31px 0;
+}
+.quick-links1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 2;
+}
+.about-us3,
+.bulkcustomization1,
+.influencerscollabroratio1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 2;
+}
+.influencerscollabroratio-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.blog1,
+.fanbook1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 2;
+}
+.privacy-policy-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+}
+.bulkcustomization-group {
+  gap: 31px 0;
+}
+.about-us-group,
+.bulkcustomization-group,
+.quick-links-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-group {
+  gap: 37px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.quick-links-group {
+  padding: 0 44px 0 0;
+  gap: 19px 0;
+}
+.site-policy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 2;
+}
+.track-yourorder1 {
+  position: relative;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  z-index: 2;
+}
+.site-policy-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px 0;
+}
+.contact-us1,
+.privacypolicy1,
+.return-exchange-policy1,
+.shippingpolicy1,
+.terms-isservice1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 2;
+}
+.help-center {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.privacy-policy {
+  gap: 22px 0;
+}
+.frame-container,
+.privacy-policy,
+.return-exchange {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.return-exchange {
+  gap: 28px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.frame-container {
+  gap: 44px 0;
+}
+.blog-frame1,
+.influencers-collaboration-fram1,
+.login {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+}
+.blog-frame1 {
+  flex: 1;
+  background-color: #1c1818;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 49px 185px 26px;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 40px;
+  color: #e28733;
+  font-family: Inter;
+}
+.influencers-collaboration-fram1,
+.login {
+  justify-content: flex-start;
+}
+.influencers-collaboration-fram1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  max-width: 100%;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .about-us-frame,
+  .accessibility-tag {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-wrapper {
+    display: none;
+  }
+  .google-login-text {
+    gap: 58px 0;
+  }
+  .create-account-button-wrapper {
+    padding-bottom: 36px;
+    box-sizing: border-box;
+  }
+  .blog-frame1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-group {
+    padding-left: 31px;
+    padding-right: 50px;
+    box-sizing: border-box;
+  }
+  .about-us2,
+  .couple-clothing1,
+  .men1,
+  .women1 {
+    font-size: 38px;
+  }
+  .about-us-frame {
+    padding-left: 52px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .login1 {
+    font-size: 51px;
+  }
+  .email,
+  .password {
+    font-size: 38px;
+  }
+  .forgot-your-password {
+    font-size: 26px;
+  }
+  .google-login-text1,
+  .new-styles-frame {
+    flex-wrap: wrap;
+  }
+  .frame-login-buttons {
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+  .create-account {
+    font-size: 29px;
+  }
+  .create-account-button-wrapper {
+    padding-bottom: 23px;
+    box-sizing: border-box;
+  }
+  .easy-return1,
+  .free-shipping1,
+  .new-styles1 {
+    font-size: 38px;
+  }
+  .accessibility-tag {
+    padding-right: 37px;
+    box-sizing: border-box;
+  }
+  .our-mission1,
+  .quick-links1,
+  .site-policy1 {
+    font-size: 32px;
+  }
+  .blog-frame1 {
+    padding-top: 20px;
+    padding-right: 24px;
+    padding-bottom: 120px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .account-parent {
+    display: none;
+  }
+  .frame-wrapper {
+    width: 0;
+  }
+  .rectangle-group {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .about-us2,
+  .couple-clothing1,
+  .men1,
+  .women1 {
+    font-size: 29px;
+  }
+  .about-us-frame {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .login1 {
+    font-size: 38px;
+  }
+  .email-text-field {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .email,
+  .password {
+    font-size: 29px;
+  }
+  .password-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .forgot-your-password {
+    font-size: 19px;
+  }
+  .easy-return-tag {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .google-login-text {
+    gap: 29px 0;
+  }
+  .create-account {
+    font-size: 22px;
+  }
+  .create-account-button {
+    gap: 17px 0;
+  }
+  .easy-return1,
+  .free-shipping1,
+  .new-styles1 {
+    font-size: 29px;
+  }
+  .our-mission1 {
+    font-size: 24px;
+  }
+  .direct-ticonsumer-model1,
+  .follow-uson-social1,
+  .homegrown-1,
+  .innovativedesign-1 {
+    font-size: 16px;
+  }
+  .about-us-info-text {
+    gap: 15px 0;
+  }
+  .quick-links1 {
+    font-size: 24px;
+  }
+  .about-us3,
+  .blog1,
+  .bulkcustomization1,
+  .fanbook1,
+  .influencerscollabroratio1 {
+    font-size: 16px;
+  }
+  .quick-links-group {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .site-policy1 {
+    font-size: 24px;
+  }
+  .contact-us1,
+  .privacypolicy1,
+  .return-exchange-policy1,
+  .shippingpolicy1,
+  .terms-isservice1,
+  .track-yourorder1 {
+    font-size: 16px;
+  }
+  .frame-container {
+    gap: 22px 0;
+  }
+}

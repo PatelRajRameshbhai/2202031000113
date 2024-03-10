@@ -1,0 +1,1342 @@
+.frame-inner {
+  height: 140px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.no-strings-attached2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 800;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.account2,
+.cart2,
+.search2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.account-group {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-nav,
+.rectangle-container {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-nav {
+  margin: 0;
+  width: 414px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 26px 0 0;
+}
+.rectangle-container {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px 100px 28px 63px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  text-align: left;
+  font-size: 64px;
+  color: #000;
+  font-family: Inter;
+}
+.men-child,
+.rectangle-div {
+  position: relative;
+  display: none;
+}
+.men-child {
+  align-self: stretch;
+  height: 1px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+}
+.rectangle-div {
+  height: 116px;
+  width: 1440px;
+  background-color: #fff;
+  max-width: 100%;
+}
+.men3,
+.women2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 2;
+}
+.couple-clothing2 {
+  display: inline-block;
+  max-width: 100%;
+}
+.about-us4,
+.couple-clothing2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 2;
+}
+.frame-section {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 29px 52px 0 104px;
+  box-sizing: border-box;
+  min-height: 133px;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+.bannert-1-icon,
+.line-div {
+  align-self: stretch;
+  position: relative;
+}
+.line-div {
+  height: 1px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+}
+.bannert-1-icon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.line-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 194px;
+}
+.t1-1-icon,
+.t2-1-icon,
+.t3-1-icon,
+.t4-1-icon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 359px;
+  height: 405.8px;
+  object-fit: cover;
+}
+.t2-1-icon,
+.t3-1-icon,
+.t4-1-icon {
+  left: 361px;
+  z-index: 1;
+}
+.t3-1-icon,
+.t4-1-icon {
+  left: 707px;
+  z-index: 2;
+}
+.t4-1-icon {
+  left: 1053px;
+  z-index: 3;
+}
+.screenshot-20240223-232534-chr-icon1 {
+  position: absolute;
+  top: 458px;
+  left: 0;
+  width: 1440px;
+  height: 166px;
+  object-fit: cover;
+}
+.t1-1-parent {
+  height: 624px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.men-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 52px 2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.t5-1-icon {
+  height: 316px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.t5-1-wrapper {
+  width: 310px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 21px;
+  box-sizing: border-box;
+}
+.urban-streetwear- {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.container-group-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.rs999 {
+  position: relative;
+  font-weight: 700;
+}
+.smartselect-20240301-130007-ga-icon {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-with-text,
+.text-with-rs-symbol {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-with-rs-symbol {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-with-text {
+  width: 239px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.t10-1-icon {
+  align-self: stretch;
+  height: 340px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-group-header-parent,
+.rs-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rs-icon-container {
+  width: 268px;
+  gap: 28px 0;
+  font-size: 36px;
+}
+.container-group-header-parent {
+  width: 289px;
+  padding: 0 0 24px;
+  box-sizing: border-box;
+  gap: 33px 0;
+}
+.mens-halfsleeve-tshirt {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.mens-halfsleeve-tshirt-short-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 14px;
+}
+.rs1199 {
+  position: relative;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.smartselect-20240301-130007-ga-icon1 {
+  height: 62px;
+  width: 223px;
+  position: absolute;
+  margin: 0 !important;
+  right: -100.4px;
+  bottom: -59.7px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rs1199-parent {
+  height: 26.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  font-size: 36px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px 0;
+}
+.frame-parent1,
+.frame-parent2,
+.frame-wrapper1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  height: 160px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 24px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 45px 0;
+  min-width: 212px;
+  max-width: 100%;
+}
+.t6-1-icon {
+  height: 316px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.t6-1-wrapper {
+  width: 281px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+.urban-streetwear-1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rs9991 {
+  position: relative;
+  font-weight: 700;
+}
+.influencers-collaboration-fram2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px;
+}
+.smartselect-20240301-130032-ga-icon {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.about-us-background,
+.bulk-customization-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bulk-customization-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.about-us-background {
+  width: 238px;
+  flex-direction: row;
+  padding: 0 7px;
+  box-sizing: border-box;
+}
+.t11-1-icon {
+  align-self: stretch;
+  height: 340px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.privacy-policy-terms-link {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px 0;
+}
+.header-container {
+  width: 265px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+  font-size: 36px;
+}
+.frame-wrapper2,
+.header-container,
+.urban-streetwear-mens-t-shi-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.urban-streetwear-mens-t-shi-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 33px 0;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 8px 8px;
+}
+.mens-multicolours-combo {
+  margin: 0;
+  align-self: stretch;
+  height: 99px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.rs11991 {
+  position: relative;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.smartselect-20240301-130032-ga-icon1 {
+  height: 62px;
+  width: 224px;
+  position: absolute;
+  margin: 0 !important;
+  right: -87.4px;
+  bottom: -59.7px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-parent3,
+.rs,
+.smart-select-gallery {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rs {
+  height: 26.9px;
+  flex-direction: row;
+  position: relative;
+  font-size: 36px;
+}
+.frame-parent3,
+.smart-select-gallery {
+  flex-direction: column;
+}
+.smart-select-gallery {
+  width: 288px;
+  height: 176px;
+  gap: 33px 0;
+}
+.frame-parent3 {
+  width: 302px;
+  padding: 0 6px 0 0;
+  box-sizing: border-box;
+  gap: 45px 0;
+}
+.t7-1-icon {
+  width: 273px;
+  height: 316px;
+  position: relative;
+  object-fit: cover;
+}
+.artistic-impressions-mens {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.artistic-impressions-mens-t-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 10px;
+}
+.rs749 {
+  position: relative;
+  font-size: 36px;
+  font-weight: 700;
+  z-index: 1;
+}
+.smartselect-20240301-130007-ga-icon2 {
+  height: 62px;
+  width: 223px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-parent5,
+.smartselect-20240301-130007-ga-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.smartselect-20240301-130007-ga-wrapper {
+  flex-direction: row;
+  padding: 0 10px;
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.t12-1-icon {
+  width: 273px;
+  height: 340px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 28px 0;
+}
+.men-top,
+.rs799 {
+  position: relative;
+}
+.men-top {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rs799 {
+  font-weight: 700;
+  white-space: nowrap;
+}
+.smartselect-20240301-130032-ga-icon2 {
+  height: 62px;
+  width: 224px;
+  position: absolute;
+  margin: 0 !important;
+  right: -89.4px;
+  bottom: -59.7px;
+  object-fit: cover;
+  z-index: 1;
+}
+.men-top-pyjama-co-ord-set-r-parent,
+.rs799-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rs799-parent {
+  height: 26.9px;
+  flex-direction: row;
+  position: relative;
+  font-size: 36px;
+}
+.men-top-pyjama-co-ord-set-r-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 33px 0;
+}
+.frame-wrapper3,
+.t7-1-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  height: 176px;
+  flex-direction: row;
+  padding: 0 0 0 10px;
+}
+.t7-1-parent {
+  width: 310px;
+  flex-direction: column;
+  padding: 0 12px 0 0;
+  gap: 45px 0;
+}
+.t8-1-icon {
+  width: 266px;
+  height: 316px;
+  position: relative;
+  object-fit: cover;
+}
+.mens-t-shirts,
+.urban-streetwear {
+  margin: 0;
+}
+.urban-streetwear-container {
+  margin: 0;
+  height: 99px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.urban-streetwear-mens-t-shi-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 4px;
+}
+.rs7491 {
+  position: relative;
+  font-weight: 700;
+  z-index: 1;
+}
+.rs749-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 6px;
+}
+.smartselect-20240301-130032-ga-icon3 {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-parent8,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent8 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper4 {
+  width: 260px;
+  flex-direction: row;
+  padding: 0 18px;
+  box-sizing: border-box;
+}
+.t14-1-icon {
+  align-self: stretch;
+  height: 340px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent6,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  width: 266px;
+  gap: 28px 0;
+  font-size: 36px;
+}
+.frame-parent6 {
+  align-self: stretch;
+  padding: 0 0 15px;
+}
+.mens-toppyjama-co-ord {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.mens-toppyjama-co-ord-set-mus-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 4px;
+}
+.rs9992 {
+  position: relative;
+  font-weight: 700;
+}
+.rs999-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+}
+.smartselect-20240301-130007-ga-icon3 {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-parent10 {
+  width: 223px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 36px;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 17px 0;
+}
+.frame-div,
+.frame-parent9,
+.men-inner1,
+.t8-1-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.t8-1-parent {
+  width: 292px;
+  flex-direction: column;
+  gap: 45px 0;
+}
+.frame-div,
+.men-inner1 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-div {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 0 36px;
+}
+.men-inner1 {
+  align-self: stretch;
+  padding: 0 50px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 27px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-child1 {
+  height: 134px;
+  width: 1440px;
+  position: relative;
+  background-color: #1c1818;
+  display: none;
+  max-width: 100%;
+}
+.free-shipping2 {
+  display: inline-block;
+  max-width: 100%;
+}
+.easy-return2,
+.free-shipping2,
+.new-styles2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  z-index: 2;
+}
+.easy-return2 {
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-child2,
+.rectangle-parent1 {
+  background-color: #1c1818;
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 30px 75px 30px 26px;
+  box-sizing: border-box;
+  min-height: 134px;
+  gap: 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 48px;
+  color: #e28733;
+  font-family: Inter;
+}
+.frame-child2 {
+  height: 596px;
+  width: 1440px;
+  position: relative;
+  display: none;
+}
+.our-mission2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.innovativedesign-2,
+.our-mission2 {
+  position: relative;
+  font-weight: 800;
+  z-index: 3;
+}
+.creating2,
+.designs-thatare-an2 {
+  margin: 0;
+}
+.creating-desi-container2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.creating-desi-wrapper1,
+.innovativedesign-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.creating-desi-wrapper1 {
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  font-size: 16px;
+}
+.innovativedesign-parent {
+  flex-direction: column;
+  padding: 0 0 10px;
+  gap: 6px 0;
+}
+.direct-ticonsumer-model2 {
+  position: relative;
+  font-weight: 800;
+  z-index: 3;
+}
+.direct-ticonsumer-model-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.bringingaccessibility-and-valu2,
+.everyday-fashion2 {
+  margin: 0;
+}
+.bringingaccessibility-and-valu-container2 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  z-index: 3;
+}
+.frame-parent12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+}
+.homegrown-2 {
+  position: relative;
+  font-weight: 800;
+  z-index: 3;
+}
+.imagined-inindia2,
+.made-inindia2 {
+  margin: 0;
+}
+.imagined-inindia-made-container2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.homegrown-group,
+.imagined-inindia-made-inindia-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.imagined-inindia-made-inindia-container {
+  flex-direction: row;
+  padding: 0 1px;
+  font-size: 16px;
+}
+.homegrown-group {
+  flex-direction: column;
+  gap: 6px 0;
+}
+.follow-uson-social2 {
+  position: relative;
+  font-weight: 800;
+  z-index: 3;
+}
+.follow-uson-social-media-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px;
+}
+.frame-parent11,
+.our-mission-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  align-self: stretch;
+  gap: 21px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.our-mission-parent {
+  width: 314px;
+  gap: 31px 0;
+}
+.about-us5,
+.quick-links2 {
+  position: relative;
+  z-index: 3;
+}
+.quick-links2 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: #e28733;
+}
+.about-us5 {
+  font-weight: 600;
+}
+.track-your-order {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 18px;
+}
+.bulkcustomization2,
+.influencerscollabroratio2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.bulk-customization {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.blog2,
+.fanbook2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.bulk-customization1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+}
+.influencers-collaboration-fram3,
+.quick-links-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px 0;
+}
+.quick-links-container {
+  padding: 0 44px 0 0;
+  gap: 19px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.site-policy2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 3;
+}
+.track-yourorder2 {
+  position: relative;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  z-index: 3;
+}
+.track-your-order1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px 0;
+}
+.contact-us2,
+.privacypolicy2,
+.return-exchange-policy2,
+.shippingpolicy2,
+.terms-isservice2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.terms-of-service {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.shipping-policy {
+  gap: 22px 0;
+}
+.order-info,
+.return-exchange-policy-shippin,
+.shipping-policy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.order-info {
+  gap: 28px 0;
+  font-size: 20px;
+  color: #fff;
+}
+.return-exchange-policy-shippin {
+  gap: 44px 0;
+}
+.frame-footer,
+.men2 {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-footer {
+  align-self: stretch;
+  background-color: #1c1818;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 50px 185px 26px;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 2;
+  text-align: left;
+  font-size: 40px;
+  color: #e28733;
+  font-family: Inter;
+}
+.men2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .frame-section,
+  .rectangle-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-nav {
+    display: none;
+  }
+  .line-parent {
+    padding-bottom: 126px;
+    box-sizing: border-box;
+  }
+  .frame-footer {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-container {
+    padding-left: 31px;
+    padding-right: 50px;
+    box-sizing: border-box;
+  }
+  .about-us4,
+  .couple-clothing2,
+  .men3,
+  .women2 {
+    font-size: 38px;
+  }
+  .frame-section {
+    padding-left: 52px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .men-inner {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .rs1199,
+  .rs11991,
+  .rs749,
+  .rs7491,
+  .rs799,
+  .rs999,
+  .rs9991,
+  .rs9992 {
+    font-size: 29px;
+  }
+  .frame-div {
+    gap: 0 18px;
+  }
+  .men-inner1 {
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+  }
+  .easy-return2,
+  .free-shipping2,
+  .new-styles2 {
+    font-size: 38px;
+  }
+  .rectangle-parent1 {
+    padding-right: 37px;
+    box-sizing: border-box;
+  }
+  .our-mission2,
+  .quick-links2,
+  .site-policy2 {
+    font-size: 32px;
+  }
+  .frame-footer {
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-bottom: 120px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .account-group {
+    display: none;
+  }
+  .frame-nav {
+    width: 0;
+  }
+  .rectangle-container {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .about-us4,
+  .couple-clothing2,
+  .men3,
+  .women2 {
+    font-size: 29px;
+  }
+  .frame-section {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .line-parent {
+    padding-bottom: 82px;
+    box-sizing: border-box;
+  }
+  .rs999,
+  .urban-streetwear- {
+    font-size: 22px;
+  }
+  .container-group-header-parent {
+    gap: 16px 0;
+  }
+  .mens-halfsleeve-tshirt,
+  .rs1199 {
+    font-size: 22px;
+  }
+  .frame-parent1 {
+    gap: 22px 0;
+  }
+  .rs9991,
+  .urban-streetwear-1 {
+    font-size: 22px;
+  }
+  .urban-streetwear-mens-t-shi-parent {
+    gap: 16px 0;
+  }
+  .mens-multicolours-combo,
+  .rs11991 {
+    font-size: 22px;
+  }
+  .smart-select-gallery {
+    gap: 16px 0;
+  }
+  .frame-parent3 {
+    gap: 22px 0;
+  }
+  .artistic-impressions-mens,
+  .men-top,
+  .rs749,
+  .rs799 {
+    font-size: 22px;
+  }
+  .men-top-pyjama-co-ord-set-r-parent {
+    gap: 16px 0;
+  }
+  .t7-1-parent {
+    gap: 22px 0;
+  }
+  .mens-toppyjama-co-ord,
+  .rs7491,
+  .rs9992,
+  .urban-streetwear-container {
+    font-size: 22px;
+  }
+  .t8-1-parent {
+    gap: 22px 0;
+  }
+  .easy-return2,
+  .free-shipping2,
+  .new-styles2 {
+    font-size: 29px;
+  }
+  .our-mission2 {
+    font-size: 24px;
+  }
+  .direct-ticonsumer-model2,
+  .follow-uson-social2,
+  .homegrown-2,
+  .innovativedesign-2 {
+    font-size: 16px;
+  }
+  .our-mission-parent {
+    gap: 15px 0;
+  }
+  .quick-links2 {
+    font-size: 24px;
+  }
+  .about-us5,
+  .blog2,
+  .bulkcustomization2,
+  .fanbook2,
+  .influencerscollabroratio2 {
+    font-size: 16px;
+  }
+  .quick-links-container {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .site-policy2 {
+    font-size: 24px;
+  }
+  .contact-us2,
+  .privacypolicy2,
+  .return-exchange-policy2,
+  .shippingpolicy2,
+  .terms-isservice2,
+  .track-yourorder2 {
+    font-size: 16px;
+  }
+  .return-exchange-policy-shippin {
+    gap: 22px 0;
+  }
+}
